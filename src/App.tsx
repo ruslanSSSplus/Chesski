@@ -16,7 +16,6 @@ function App() {
 
     useEffect(() => {
         restart()
-        setCurrentPlayer(whitePlayer)
     }, [])
 
 
@@ -24,6 +23,7 @@ function App() {
         const newBoard = new Board()
        newBoard.initCells()
        newBoard.addFigures()
+       setCurrentPlayer(whitePlayer)
        setBoard(newBoard)
    }
 
