@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chesski/static/css/main.77204989.css",
+    "main.js": "/Chesski/static/js/main.ca5e920f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Chesski/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Chesski/index.html",
+    "main.77204989.css.map": "/Chesski/static/css/main.77204989.css.map",
+    "main.ca5e920f.js.map": "/Chesski/static/js/main.ca5e920f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Chesski/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77204989.css",
+    "static/js/main.ca5e920f.js"
+  ]
+}
